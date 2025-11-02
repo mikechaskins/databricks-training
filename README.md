@@ -172,7 +172,6 @@ The training includes creating various visualization types:
 - [Delta Lake Documentation](https://docs.delta.io)
 
 ### Oil & Gas Resources
-- [API Well Number Format](https://www.oil-gas.state.co.us/General/Help/APD_DST_Format.pdf)
 - [Production Metrics Guide](https://www.spe.org/en/)
 
 ### Related Training
